@@ -62,8 +62,6 @@ Acknowledgments
 This notebook was created using Jupyter Notebook.
 The data used in this notebook is from the California Housing dataset.
 
-vbnet
-Copy
-Edit
+
 
 Let me know if you'd like further edits!
