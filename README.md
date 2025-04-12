@@ -19,9 +19,9 @@ This project predicts the median house value in California using machine learnin
    ```
 2. Install dependencies:
    ```bash
-!pip install pandas
-!pip install numpy 
-!pip install matplotlib.pyplot 
+   !pip install pandas
+   !pip install numpy 
+   !pip install matplotlib.pyplot 
    ```
 3. (Optional) Set up a virtual environment:
    ```bash
